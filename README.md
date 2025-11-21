@@ -2,7 +2,7 @@
 Español
 Es un concurso de preguntas donde tienes que elegir una de las opciones para ir sumando puntos, el que tenga más puntos gana
 puedes ver un poco del juego en las capturas de assets
-
+![Quiz](assets/img2.png)
 1. PRIMERO TIENES QUE TENER EL CONECTOR MYSQL CONECTADO, PUEDES DESCARGAR 
 DESDE SU PÁGINA OFICIAL Y CONECTARLO CON EL MYSQL
 https://dev.mysql.com/downloads/connector/j/
