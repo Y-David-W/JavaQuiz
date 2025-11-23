@@ -1,5 +1,6 @@
 # JavaQuiz
 Español
+
 Es un concurso de preguntas donde tienes que elegir una de las opciones para ir sumando puntos, el que tenga más puntos gana
 puedes ver un poco del juego en las capturas de assets
 ![Quiz](assets/img2.png)
@@ -52,6 +53,7 @@ SI NO EXISTE UNA UNIDAD O MÓDULO TENDRÁS QUE VOLVER A INTRODUCIR
 
 _______________________________________________________________________________________________
 English
+
 It's a quiz game where you choose one of the options to accumulate points. The player with the most points wins.
 You can see a bit of the game in the asset screenshots.
 
